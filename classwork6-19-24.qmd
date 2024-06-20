@@ -1,0 +1,16 @@
+---
+title: "classwork6-19-24"
+author: "Eric"
+format: html
+execute:
+  echo: false
+---
+
+```{r}
+#| label
+#| setup
+
+library(tidyverse)
+library(tidycensus)
+```
+
